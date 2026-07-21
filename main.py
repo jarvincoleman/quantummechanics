@@ -18,7 +18,7 @@ class SimulationM:
     def __init__(self, qml): 
         self.qml = qml 
 
-    
+
     def superposition(qml):
         pass
 
@@ -39,7 +39,8 @@ class QuantumCircuit:
     
     def __init__(self, qutip, dirac_n): 
         self.qutip = qutip 
-
+        
+        
     def mathematics(self, s_math):
         pass
 
